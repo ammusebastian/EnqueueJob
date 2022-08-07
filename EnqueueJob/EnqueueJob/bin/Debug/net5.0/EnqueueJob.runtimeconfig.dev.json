@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ammu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ammu\\.nuget\\packages"
+    ]
+  }
+}
